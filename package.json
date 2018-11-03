@@ -1,0 +1,19 @@
+{
+  "name": "crafthut",
+  "version": "1.0.0",
+  "description": "Frontend for my ecommerce site... coming soon...",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mzeroes/crafthut.git"
+  },
+  "author": "Shubham Jain <s.shubjain@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzeroes/crafthut/issues"
+  },
+  "homepage": "https://github.com/mzeroes/crafthut#readme"
+}
